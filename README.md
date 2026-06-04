@@ -6,6 +6,11 @@ The project delivers a comprehensive blueprint for replacing keyword-based searc
 
 ---
 
+## Project Genesis
+This project was initiated as a product design and system architecture study for a technology-driven spin-off. 
+
+To ensure the platform's viability, the architectural and business workflows were designed in collaboration with a partner NLP engineering team. This collaborative approach allowed us to translate core machine learning capabilities (such as semantic vector embeddings) into structured database schemas and user-focused B2B workflows, aligning technical specifications directly with market needs.
+
 ## Deliverables & Documentation
 
 The full engineering specifications and market analyses are available in the following project documents:
